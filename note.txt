@@ -1,0 +1,6 @@
+Public STUN servers
+stun1.1.google.com:19302
+stun2.1.google.com:19302
+stun3.1.google.com:19302
+stun4.1.google.com:19302
+stun.stunprotocol.org:3478
